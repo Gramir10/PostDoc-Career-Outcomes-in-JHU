@@ -13,8 +13,14 @@ Once the Postdoctoral Career Outcomes was imported from Tabula, the data was cle
 In all, 4 clusters were created, they are summarized below. The Life Design Lab at JHU can use these clusters to categorize which internship/job search oppurtunities for the specific sectors should be offered according to the preferences of each department. Further efforts should be extended to reach out to departments of Cluster #4, as they have less data on their outcomes.
 
 ![alt text](https://github.com/Gramir10/PostDoc-Career-Outcomes-in-JHU/blob/master/C1.png)
+
+
 ![alt text](https://github.com/Gramir10/PostDoc-Career-Outcomes-in-JHU/blob/master/C2.png)
+
+
 ![alt text](https://github.com/Gramir10/PostDoc-Career-Outcomes-in-JHU/blob/master/C3.png)
+
+
 ![alt text](https://github.com/Gramir10/PostDoc-Career-Outcomes-in-JHU/blob/master/C4.png)
 
 Data Sources:
